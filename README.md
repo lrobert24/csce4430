@@ -2,6 +2,7 @@
 This is for class csce4430
 
 *********** IMPORTANT ***************
+
 To RUN this program the library "lambda" must be installed
 To COMPILE use "swipl a6_lee.pl" then for output type
 
